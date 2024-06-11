@@ -1,5 +1,4 @@
-![https://blog.holbertonschool.com/wp-content/uploads/2019/04/instagram_feed180.jpg]
-
+![](https://blog.holbertonschool.com/wp-content/uploads/2019/04/instagram_feed180.jpg)
 Blog-Homepage
 
 This is the source code for the "Blog-homepage" website. It features a header with navigation, multiple sections including a banner, quotes, popular tutorials, membership information, FAQs, and a footer.
